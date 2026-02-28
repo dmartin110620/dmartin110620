@@ -40,6 +40,8 @@ A UIKit-based iOS application that allows users to search for GitHub profiles an
 
 This project helped me understand how real apps consume APIs, manage asynchronous data, and handle UI updates properly.
 
+* Repo Link: https://github.com/dmartin110620/GitHubFollowers
+
 ---
 
 ### 🌤 SwiftUI Weather App
@@ -65,6 +67,8 @@ A modern weather application built with SwiftUI that fetches real-time weather d
 * Reactive UI updates
 
 This project strengthened my understanding of declarative UI patterns and reactive programming concepts.
+
+* Repo Link: https://github.com/dmartin110620/SwiftUI-Weather
 
 ---
 
