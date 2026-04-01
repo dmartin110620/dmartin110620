@@ -20,6 +20,7 @@ A UIKit-based iOS application that allows users to search for GitHub profiles an
 #### What This Project Demonstrates
 
 * UIKit-based interface
+* Swift Concurrency (`async/await`)
 * Programmatic UI (Auto Layout)
 * UINavigationController flow
 * Networking with URLSession
