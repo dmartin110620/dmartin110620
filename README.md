@@ -11,9 +11,9 @@ My goal is to transition from structured learning into production-level app deve
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📱 GitHub Followers App (UIKit)
+### GitHub Followers App (UIKit)
 
 A UIKit-based iOS application that allows users to search for GitHub profiles and explore their followers.
 
@@ -45,7 +45,7 @@ This project helped me understand how real apps consume APIs, manage asynchronou
 
 ---
 
-### 🌤 SwiftUI Weather App
+### SwiftUI Weather App
 
 A modern weather application built with SwiftUI that fetches real-time weather data from an external API.
 
@@ -73,7 +73,7 @@ This project strengthened my understanding of declarative UI patterns and reacti
 
 ---
 
-## 🧠 What I’m Learning & Improving
+## What I’m Learning & Improving
 
 * MVVM architecture in UIKit
 * Dependency Injection
@@ -85,7 +85,7 @@ This project strengthened my understanding of declarative UI patterns and reacti
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Swift
 * UIKit
@@ -98,7 +98,7 @@ This project strengthened my understanding of declarative UI patterns and reacti
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 I’m looking for an opportunity as a **Junior iOS Developer** where I can contribute to real-world applications, collaborate in a team environment, and continue growing toward a semi-senior level.
 
@@ -106,7 +106,7 @@ I’m especially interested in roles that use **UIKit-based architectures**, mod
 
 ---
 
-## 📬 Contact
+## Contact
 
 * E-mail: daniel.martin1106@gmail.com
 * LinkedIn: https://www.linkedin.com/in/daniel-felipe-mart%C3%ADn-franco-140bb1241?utm_source=share_via&utm_content=profile&utm_medium=member_ios
